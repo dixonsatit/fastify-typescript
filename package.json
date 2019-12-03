@@ -28,7 +28,7 @@
     "fastify-plugin": "^1.6.0",
     "fastify-rate-limit": "^2.4.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.20.3",
+    "knex": "0.20.3",
     "lodash": "^4.17.15",
     "mysql": "^2.17.1",
     "request": "^2.88.0"
