@@ -26,7 +26,7 @@
     "fastify-knexjs": "^1.0.14",
     "fastify-plugin": "^3.0.0",
     "fastify-rate-limit": "^4.0.3",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "knex": "0.21.12",
     "lodash": "^4.17.20",
     "mysql": "^2.18.1",
